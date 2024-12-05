@@ -28,7 +28,7 @@ export const CLASE_CSS_BOTON_SECUNDARIO = 'btn-dark-subtle'
 export const PREFIJOS_ID_CONTENEDORES_CANALES = ['modal-canales', 'offcanvas-canales', 'modal-cambiar-canal', 'vision-unica'];
 const TWITCH_PARENT = 'Navezjt.github.io'
 const ARRAY_CANALES_PREDETERMINADOS = ['asharq-news-Navez', 'abc7-swfl', 't13'];
-const ARRAY_CANALES_PREDETERMINADOS_EXTRAS = ['noticias-caracol', 'latina-noticias', 'hostlivetv-CRISTIANA-tv'];
+const ARRAY_CANALES_PREDETERMINADOS_EXTRAS = ['noticias-caracol', 'latina-noticias', 'hostlivetv-CRISTIANA'];
 const ICONOS_PARA_CATEGORIAS = {
     // Formato de https://github.com/iptv-org/iptv?tab=readme-ov-file#grouped-by-category
     'animation': '<i class="bi bi-emoji-laughing-fill" title="Icono dibujos animados"></i>',
